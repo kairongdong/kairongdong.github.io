@@ -5,6 +5,5 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
-
-Research
+Working on a protein folding related project, a protein large conformational dynamics related project and a biomolecular condensates membrane interaction related project.
+Interested? Will let you know later!
