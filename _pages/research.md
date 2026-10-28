@@ -20,7 +20,7 @@ transitions between compact and extended states that are critical to its regulat
 function. I use coarse-grained and all-atom MD simulations to characterize the
 mechanism and free energy landscape of this transition.
 
-**Disordered Protein Interactions** *(side project)*  
+**Disordered Protein Interactions**  
 Intrinsically disordered proteins (IDPs) form highly dynamic, transient complexes
 that are difficult to resolve experimentally. I am investigating how disordered
 regions mediate protein–protein interactions using MD simulations.
