@@ -11,8 +11,36 @@ author_profile: true
 
   <div style="position: relative; margin-bottom: 28px;">
     <div style="position: absolute; left: -39px; top: 4px; width: 12px; height: 12px; background-color: #888; border-radius: 50%;"></div>
+    <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">2026</div>
+    <strong>Selected Talk</strong> · UMass MCB Retreat<br>
+    "Multi-scale MD Simulations of CaMKII Linker-Driven Conformational Dynamics"
+  </div>
+
+  <div style="position: relative; margin-bottom: 28px;">
+    <div style="position: absolute; left: -39px; top: 4px; width: 12px; height: 12px; background-color: #888; border-radius: 50%;"></div>
+    <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">2026</div>
+    <strong>Best Poster Award</strong> · Protein Society Annual Symposium<br>
+    "Toward Effective Simulation of Large-Scale Transitions: Linker Effect on CaMKII Activation"
+  </div>
+
+  <div style="position: relative; margin-bottom: 28px;">
+    <div style="position: absolute; left: -39px; top: 4px; width: 12px; height: 12px; background-color: #888; border-radius: 50%;"></div>
     <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">Dec 2024</div>
     Passed my prospectus presentation with positive feedback from the committee. Grateful for everyone's support and looking forward to focusing on my projects ahead.
+  </div>
+
+  <div style="position: relative; margin-bottom: 28px;">
+    <div style="position: absolute; left: -39px; top: 4px; width: 12px; height: 12px; background-color: #888; border-radius: 50%;"></div>
+    <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">2025</div>
+    <strong>Poster</strong> · Biophysical Society Annual Meeting<br>
+    "Investigation of WNV Protease Folding Pathway"
+  </div>
+
+  <div style="position: relative; margin-bottom: 28px;">
+    <div style="position: absolute; left: -39px; top: 4px; width: 12px; height: 12px; background-color: #888; border-radius: 50%;"></div>
+    <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">2025</div>
+    <strong>Poster</strong> · UMass Chemistry Research Fest<br>
+    "Investigation of WNV Protease Folding Pathway"
   </div>
 
   <div style="position: relative; margin-bottom: 28px;">
@@ -23,8 +51,29 @@ author_profile: true
 
   <div style="position: relative; margin-bottom: 28px;">
     <div style="position: absolute; left: -39px; top: 4px; width: 12px; height: 12px; background-color: #888; border-radius: 50%;"></div>
+    <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">2024</div>
+    <strong>Poster</strong> · Biophysical Society Annual Meeting<br>
+    "Conformational Dynamics of CaMKII with Different Linkers"
+  </div>
+
+  <div style="position: relative; margin-bottom: 28px;">
+    <div style="position: absolute; left: -39px; top: 4px; width: 12px; height: 12px; background-color: #888; border-radius: 50%;"></div>
+    <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">2024</div>
+    <strong>Poster</strong> · UMass Chemistry Research Fest<br>
+    "Rebalancing the Martini 3 Force Field for Simulating Interaction of Proteins with Membranes and Biomolecular Condensates"
+  </div>
+
+  <div style="position: relative; margin-bottom: 28px;">
+    <div style="position: absolute; left: -39px; top: 4px; width: 12px; height: 12px; background-color: #888; border-radius: 50%;"></div>
     <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">Mar 2023</div>
     Officially joined Prof. Jianhan Chen's lab as my home lab, transitioning from wet lab to computational work. I still remember my first lab meeting on the 6th floor of LSL, watching snowflakes fall outside while the world was quiet and white.
+  </div>
+
+  <div style="position: relative; margin-bottom: 28px;">
+    <div style="position: absolute; left: -39px; top: 4px; width: 12px; height: 12px; background-color: #888; border-radius: 50%;"></div>
+    <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">2023</div>
+    <strong>Poster</strong> · UMass Chemistry Research Fest<br>
+    "Studying the Dynamic Effects of CaMKII Linker Region Using Molecular Dynamics Simulation"
   </div>
 
   <div style="position: relative; margin-bottom: 28px;">
