@@ -11,7 +11,7 @@ author_profile: true
 
   <div style="position: relative; margin-bottom: 28px;">
     <div style="position: absolute; left: -39px; top: 4px; width: 12px; height: 12px; background-color: #888; border-radius: 50%;"></div>
-    <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">Oct 09, 2026</div>
+    <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">Oct 9, 2026</div>
     <strong>Selected Talk</strong> · UMass MCB Retreat<br>
     "Multi-scale MD Simulations of CaMKII Linker-Driven Conformational Dynamics"
   </div>
