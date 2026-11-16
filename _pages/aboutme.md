@@ -14,15 +14,9 @@ courage, determination, and discipline. I will keep going.
 
 <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px; margin: 20px 0;">
     <figure style="display: inline-block; margin: 0; text-align: center;">
-        <img src="../images/IMG_8067.jpeg" alt="Elementary School" loading="lazy" style="width:300px; height:auto;">
+        <img src="../images/aboutme/1.jpeg" alt="Elementary School" loading="lazy" style="width:300px; height:auto;">
         <figcaption style="margin-top: 6px; font-family: 'Fredoka One', sans-serif; font-size: 14px; color: #555;">
             Elementary School
-        </figcaption>
-    </figure>
-    <figure style="display: inline-block; margin: 0; text-align: center;">
-        <img src="../images/IMG_8066.jpeg" alt="View in front of home" loading="lazy" style="width:300px; height:auto;">
-        <figcaption style="margin-top: 6px; font-family: 'Fredoka One', sans-serif; font-size: 14px; color: #555;">
-            View in front of home
         </figcaption>
     </figure>
 </div>
@@ -35,15 +29,9 @@ badminton, swimming, hiking and rock climbing.
 
 <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px; margin: 20px 0;">
     <figure style="display: inline-block; margin: 0; text-align: center;">
-        <img src="../images/fb2f6129e083283806c286a949072eba.jpeg" alt="New England" loading="lazy" style="width:300px; height:auto;">
+        <img src="../images/aboutme/2.jpeg" alt="New England" loading="lazy" style="width:300px; height:auto;">
         <figcaption style="margin-top: 6px; font-family: 'Fredoka One', sans-serif; font-size: 14px; color: #555;">
             New England
-        </figcaption>
-    </figure>
-    <figure style="display: inline-block; margin: 0; text-align: center;">
-        <img src="../images/IMG_1024.JPG" alt="East Coast" loading="lazy" style="width:300px; height:auto;">
-        <figcaption style="margin-top: 6px; font-family: 'Fredoka One', sans-serif; font-size: 14px; color: #555;">
-            East Coast
         </figcaption>
     </figure>
 </div>

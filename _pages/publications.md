@@ -29,5 +29,3 @@ author_profile: true
   </div>
 
 </div>
-
-<div style="margin-left: 10px; margin-top: 4px; font-size: 13px; color: #888;">* equal contribution</div>

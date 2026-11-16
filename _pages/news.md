@@ -14,6 +14,12 @@ author_profile: true
     <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">Oct 9, 2026</div>
     <strong>Selected Talk</strong> · UMass MCB Retreat<br>
     "Multi-scale MD Simulations of CaMKII Linker-Driven Conformational Dynamics"
+    <figure style="margin: 12px 0 0 0; text-align: left;">
+      <img src="../images/news/mcbretreat26.jpg"
+          alt="Biophysical Society Annual Meeting 2024 poster"
+          loading="lazy"
+          style="width: 300px; max-width: 100%; height: auto; border-radius: 4px;">
+    </figure>
   </div>
 
   <div style="position: relative; margin-bottom: 28px;">
@@ -21,6 +27,12 @@ author_profile: true
     <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">Jul 18, 2026</div>
     <strong>Best Poster Award</strong> · Protein Society Annual Symposium<br>
     "Toward Effective Simulation of Large-Scale Transitions: Linker Effect on CaMKII Activation"
+    <figure style="margin: 12px 0 0 0; text-align: left;">
+      <img src="../images/news/ps40.jpg"
+          alt="Biophysical Society Annual Meeting 2024 poster"
+          loading="lazy"
+          style="width: 300px; max-width: 100%; height: auto; border-radius: 4px;">
+    </figure>
   </div>
 
   <div style="position: relative; margin-bottom: 28px;">
@@ -35,6 +47,12 @@ author_profile: true
     <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">Feb 18, 2025</div>
     <strong>Poster</strong> · Biophysical Society Annual Meeting<br>
     "Investigation of WNV Protease Folding Pathway"
+    <figure style="margin: 12px 0 0 0; text-align: left;">
+      <img src="../images/news/bps25.jpg"
+          alt="Biophysical Society Annual Meeting 2024 poster"
+          loading="lazy"
+          style="width: 300px; max-width: 100%; height: auto; border-radius: 4px;">
+    </figure>
   </div>
 
   <div style="position: relative; margin-bottom: 28px;">
@@ -48,6 +66,12 @@ author_profile: true
     <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">Aug 27, 2024</div>
     <strong>Poster</strong> · UMass Chemistry Research Fest<br>
     "Rebalancing the Martini 3 Force Field for Simulating Interaction of Proteins with Membranes and Biomolecular Condensates"
+    <figure style="margin: 12px 0 0 0; text-align: left;">
+      <img src="../images/news/researchfest24.jpg"
+          alt="Biophysical Society Annual Meeting 2024 poster"
+          loading="lazy"
+          style="width: 300px; max-width: 100%; height: auto; border-radius: 4px;">
+    </figure>
   </div>
 
   <div style="position: relative; margin-bottom: 28px;">
@@ -56,11 +80,20 @@ author_profile: true
     Passed my ORP exam with a full pass — on the same day as the total solar eclipse! Celebrated afterwards by watching the eclipse on campus with colleagues, experiencing the eerie chill and dimness as the sun reached 94.6% coverage over Amherst.
   </div>
 
+
   <div style="position: relative; margin-bottom: 28px;">
     <div style="position: absolute; left: -39px; top: 4px; width: 12px; height: 12px; background-color: #888; border-radius: 50%;"></div>
-    <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">Feb 9-14, 2024</div>
+    <div style="font-weight: bold; font-size: 15px; margin-bottom: 4px; color: #888;">
+      Feb 9-14, 2024
+    </div>
     <strong>Poster</strong> · Biophysical Society Annual Meeting<br>
     "Conformational Dynamics of CaMKII with Different Linkers"
+    <figure style="margin: 12px 0 0 0; text-align: left;">
+      <img src="../images/news/bps24.jpg"
+          alt="Biophysical Society Annual Meeting 2024 poster"
+          loading="lazy"
+          style="width: 300px; max-width: 100%; height: auto; border-radius: 4px;">
+    </figure>
   </div>
 
   <div style="position: relative; margin-bottom: 28px;">
